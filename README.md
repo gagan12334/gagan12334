@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Gagan Chandra Charagondla. You can call me Gagan! I am an aspiring software engineer with a special interest in machine learning. 
+I am computer science major at Rutgers University. I love technology and am fasicnated by machine learning and innovative technoliges. 
+I am currently learning machine learning, building models and incorerating other ideas like LLMS, NLPS, Neural networks and other popular ideas with in AI and Machine learning
+I primarly work with python and also have profiecny in java and C.
+
+You can connect with me via my LinkedIn: www.linkedin.com/in/gagan-charagondla
+📫 How to reach me: gagan.charagondla@gmail.com
 <!--
 **gagan12334/gagan12334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
